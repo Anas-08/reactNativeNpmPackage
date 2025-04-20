@@ -1,0 +1,42 @@
+{
+  "name": "react-native-ui-anas",
+  "version": "1.0.1",
+  "description": "A customizable React Native UI library with Toast, Checkbox, RadioButton, and Captcha components.",
+  "keywords": [
+    "react-native",
+    "ui",
+    "components",
+    "checkbox",
+    "toast",
+    "captcha",
+    "radio",
+    "button"
+  ],
+  "homepage": "https://github.com/Anas-08/reactNativeNpmPackage#readme",
+  "bugs": {
+    "url": "https://github.com/Anas-08/reactNativeNpmPackage/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anas-08/reactNativeNpmPackage.git"
+  },
+  "license": "MIT",
+  "author": "Anas-00008",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "lib"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.2",
+    "@types/react-native": "^0.72.8",
+    "typescript": "^5.8.3"
+  }
+}
