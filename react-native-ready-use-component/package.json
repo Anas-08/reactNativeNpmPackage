@@ -1,0 +1,32 @@
+{
+  "name": "react-native-ready-use-component",
+  "version": "1.0.0",
+  "description": "A customizable React Native UI library with Toast, Checkbox, RadioButton, components and also for responsive.",
+  "keywords": [
+    "react-native",
+    "component-library",
+    "checkbox",
+    "radiobutton",
+    "toast",
+    "responsive"
+  ],
+  "author": "anas-00008",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "lib"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.2",
+    "@types/react-native": "^0.72.8",
+    "typescript": "^5.8.3"
+  }
+}
